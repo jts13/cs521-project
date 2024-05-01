@@ -1,0 +1,7 @@
+.venv
+.idea
+.zed
+cmake-build-*
+out
+out-*
+target

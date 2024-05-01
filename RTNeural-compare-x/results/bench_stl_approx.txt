@@ -1,0 +1,196 @@
+Benchmarking dense layer, with input size 4 and output size 4, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.00515608 seconds
+775.783x real-time
+Benchmarking dense layer, with input size 8 and output size 8, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0080745 seconds
+495.387x real-time
+Benchmarking dense layer, with input size 16 and output size 16, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0189858 seconds
+210.684x real-time
+Benchmarking dense layer, with input size 32 and output size 32, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0906972 seconds
+44.1028x real-time
+Benchmarking dense layer, with input size 64 and output size 64, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.509343 seconds
+7.85326x real-time
+Benchmarking dense layer, with input size 128 and output size 128, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 2.71554 seconds
+1.47301x real-time
+Benchmarking dense layer, with input size 256 and output size 256, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 13.5108 seconds
+0.29606x real-time
+Benchmarking gru layer, with input size 4 and output size 4, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0144543 seconds
+276.734x real-time
+Benchmarking gru layer, with input size 8 and output size 8, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0368565 seconds
+108.529x real-time
+Benchmarking gru layer, with input size 16 and output size 16, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.125083 seconds
+31.9789x real-time
+Benchmarking gru layer, with input size 32 and output size 32, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.602819 seconds
+6.63549x real-time
+Benchmarking gru layer, with input size 64 and output size 64, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 3.43603 seconds
+1.16413x real-time
+Benchmarking gru layer, with input size 128 and output size 128, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 14.6477 seconds
+0.273081x real-time
+Benchmarking gru layer, with input size 256 and output size 256, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 70.0245 seconds
+0.0571229x real-time
+Benchmarking lstm layer, with input size 4 and output size 4, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0195413 seconds
+204.695x real-time
+Benchmarking lstm layer, with input size 8 and output size 8, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0622168 seconds
+64.2913x real-time
+Benchmarking lstm layer, with input size 16 and output size 16, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.207566 seconds
+19.271x real-time
+Benchmarking lstm layer, with input size 32 and output size 32, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.879157 seconds
+4.54981x real-time
+Benchmarking lstm layer, with input size 64 and output size 64, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 4.72153 seconds
+0.847182x real-time
+Benchmarking lstm layer, with input size 128 and output size 128, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 19.794 seconds
+0.202081x real-time
+Benchmarking lstm layer, with input size 256 and output size 256, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 93.801 seconds
+0.0426435x real-time
+Benchmarking conv1d layer, with input size 4 and output size 4, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.012041 seconds
+332.198x real-time
+Benchmarking conv1d layer, with input size 8 and output size 8, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.0424836 seconds
+94.154x real-time
+Benchmarking conv1d layer, with input size 16 and output size 16, with signal length 4 seconds
+RTNEURAL DYNAMIC...
+Processed 4 seconds of signal in 0.435642 seconds
+9.18186x real-time
+Benchmarking conv1d layer, with input size 32 and output size 32, with signal length 1 seconds
+RTNEURAL DYNAMIC...
+Processed 1 seconds of signal in 1.10939 seconds
+0.901399x real-time
+Benchmarking conv1d layer, with input size 64 and output size 64, with signal length 1 seconds
+RTNEURAL DYNAMIC...
+Processed 1 seconds of signal in 9.02056 seconds
+0.110858x real-time
+Benchmarking conv1d layer, with input size 128 and output size 128, with signal length 1 seconds
+RTNEURAL DYNAMIC...
+Processed 1 seconds of signal in 78.4105 seconds
+0.0127534x real-time
+Benchmarking conv1d layer, with input size 256 and output size 256, with signal length 1 seconds
+RTNEURAL DYNAMIC...
+Processed 1 seconds of signal in 620.229 seconds
+0.00161231x real-time
+Benchmarking tanh layer, with input size 4 and output size 4, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.00738788 seconds
+4331.42x real-time
+Benchmarking tanh layer, with input size 8 and output size 8, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0136338 seconds
+2347.1x real-time
+Benchmarking tanh layer, with input size 16 and output size 16, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.00729296 seconds
+4387.79x real-time
+Benchmarking tanh layer, with input size 32 and output size 32, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0142533 seconds
+2245.1x real-time
+Benchmarking tanh layer, with input size 64 and output size 64, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0268825 seconds
+1190.37x real-time
+Benchmarking tanh layer, with input size 128 and output size 128, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.052107 seconds
+614.121x real-time
+Benchmarking tanh layer, with input size 256 and output size 256, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.103485 seconds
+309.224x real-time
+Benchmarking relu layer, with input size 4 and output size 4, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0101609 seconds
+3149.32x real-time
+Benchmarking relu layer, with input size 8 and output size 8, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0148737 seconds
+2151.45x real-time
+Benchmarking relu layer, with input size 16 and output size 16, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0272874 seconds
+1172.7x real-time
+Benchmarking relu layer, with input size 32 and output size 32, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0509296 seconds
+628.318x real-time
+Benchmarking relu layer, with input size 64 and output size 64, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.10594 seconds
+302.058x real-time
+Benchmarking relu layer, with input size 128 and output size 128, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.196743 seconds
+162.649x real-time
+Benchmarking relu layer, with input size 256 and output size 256, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.380681 seconds
+84.0598x real-time
+Benchmarking sigmoid layer, with input size 4 and output size 4, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0113346 seconds
+2823.21x real-time
+Benchmarking sigmoid layer, with input size 8 and output size 8, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0203551 seconds
+1572.09x real-time
+Benchmarking sigmoid layer, with input size 16 and output size 16, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0364122 seconds
+878.827x real-time
+Benchmarking sigmoid layer, with input size 32 and output size 32, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.0728701 seconds
+439.137x real-time
+Benchmarking sigmoid layer, with input size 64 and output size 64, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.147187 seconds
+217.411x real-time
+Benchmarking sigmoid layer, with input size 128 and output size 128, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.280243 seconds
+114.186x real-time
+Benchmarking sigmoid layer, with input size 256 and output size 256, with signal length 32 seconds
+RTNEURAL DYNAMIC...
+Processed 32 seconds of signal in 0.562121 seconds
+56.9273x real-time

@@ -1,9 +1,0 @@
-[submodule "RTNeural"]
-	path = RTNeural
-	url = https://github.com/jatinchowdhury18/RTNeural
-[submodule "RTNeural-compare"]
-	path = RTNeural-compare
-	url = https://github.com/jatinchowdhury18/RTNeural-compare
-[submodule "RTNeural-example"]
-	path = RTNeural-example
-	url = https://github.com/jatinchowdhury18/RTNeural-example

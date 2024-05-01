@@ -1,0 +1,23 @@
+[package]
+name = "rural"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libm = { version = "0.2.8", default-features = false }
+
+#rand = { version = "0.8.5", default-features = false }
+rand_core = { version = "0.6.4", default-features = false }
+rand_distr = { version = "0.4.3", default-features = false }
+rand_xoshiro = { version = "0.6.0", default-features = false }
+
+[dev-dependencies]
+#plotters = "0.3.5"
+plotters = { git = "https://github.com/plotters-rs/plotters", rev = "6879002" }
+
+[profile.release]
+lto = "fat"
+panic = "abort"
+opt-level = 3
+codegen-units = 1
+overflow-checks = false
